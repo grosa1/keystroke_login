@@ -192,8 +192,8 @@ public class FirstWindow extends JFrame {
 
         //sd iki
         ArrayList<Integer> sdIKI = new ArrayList<>();
-//        for (int i = 0; i < timeKeys.size(); i++) {
-        for (int i = 0; i < 34; i++) {
+       for (int i = 0; i < timeKeys.size(); i++) {
+        // for (int i = 0; i < 34; i++) {
             if ((i == 0) || (i == 1) || (i == 2) || (i == 3)) {
 
             } else {
@@ -201,8 +201,8 @@ public class FirstWindow extends JFrame {
             }
         }
 
-//        for (int i = 0; i < timeKeys.size(); i++) {
-        for (int i = 0; i < 34; i++) {
+       for (int i = 0; i < timeKeys.size(); i++) {
+        // for (int i = 0; i < 34; i++) {
             if ((i == 0) || (i == 1) || (i == 2) || (i == 3)) {
 
             } else {
